@@ -9,6 +9,9 @@
     "lint": "expo lint"
   },
   "dependencies": {
+    "@expo-google-fonts/exo": "^0.4.0",
+    "@expo-google-fonts/orbitron": "^0.4.0",
+    "@expo-google-fonts/space-mono": "^0.4.0",
     "@expo/vector-icons": "^14.0.2",
     "@lucide/lab": "^0.1.2",
     "@react-navigation/bottom-tabs": "^7.2.0",
